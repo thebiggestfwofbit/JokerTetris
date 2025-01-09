@@ -8,7 +8,7 @@
 
 详细的玩法演示视频可以在附件中找到并查看！
 
-![image-20241122033141871](C:\Users\zhang\AppData\Roaming\Typora\typora-user-images\image-20241122033141871.png)
+![image-20241122033141871](image-20241122033141871.png)
 
 ## 项目架构
 
